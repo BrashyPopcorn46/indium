@@ -67,3 +67,32 @@ img{
     margin-top: 10%;
 }
 
+
+
+ .contact-section {
+     background: rgb(201, 201, 201);
+     padding: 20px;
+     border-radius: 10px;
+     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+     text-align: center;
+ }
+
+ h2 {
+     color: #2c3e50;
+ }
+
+ .contact-links {
+     margin-top: 15px;
+ }
+
+ .contact-links a {
+     display: block;
+     margin: 10px 0;
+     color: #007bff;
+     text-decoration: none;
+     font-size: 18px;
+ }
+
+ .contact-links a:hover {
+     text-decoration: underline;
+ }
