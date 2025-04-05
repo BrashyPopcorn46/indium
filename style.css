@@ -1,5 +1,7 @@
-.body{
+body{
     background-color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    
 }
 
 
@@ -23,7 +25,16 @@
     margin-right: 20px;
 }
 .menu__text{
-
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.35;
+}
+.trubochka{
+    color: #fbbb21;
+    height: 30px;
+    width: 30px;
+    margin-left: 42%;
+    margin-top: 0.3%;
 }
 
 
