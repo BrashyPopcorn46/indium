@@ -11,7 +11,14 @@ background: linear-gradient(90deg, rgba(0, 94, 255, 1) 0%, rgba(253, 29, 29, 0.6
 }
 .wrapper__direction{
     text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 50px;
+    
+    
+
 }
+
 .razvitie{
     margin-top: 52px;
     text-align: center;
@@ -21,8 +28,13 @@ background: linear-gradient(90deg, rgba(0, 94, 255, 1) 0%, rgba(253, 29, 29, 0.6
     padding: 20px;
     border-radius: 50px;
 }
+.razvitie__wrapper{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 50px;
+}
 .header{
-    
+    margin-bottom: 50px;
 }
 .text1{
     text-align: center;
