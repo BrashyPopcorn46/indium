@@ -1,14 +1,32 @@
+/* номер стори 31 */
+
 body{
     background-color: #ffffff;
     font-family: "Roboto", sans-serif;
     
 }
-
-
+.fon_saita{
+    background: #005eff;
+background: linear-gradient(90deg, rgba(0, 94, 255, 1) 0%, rgba(253, 29, 29, 0.63) 50%, rgba(81, 255, 0, 1) 100%);
+}
+.wrapper__direction{
+    text-align: center;
+}
+.razvitie{
+    margin-top: 52px;
+    text-align: center;
+}
+.tasks__wrapper{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 50px;
+}
 .header{
     
 }
-
+.text1{
+    text-align: center;
+}
 .menu__wrapper{
     background-color: #fff;
     width: 100%;
@@ -36,6 +54,7 @@ body{
     margin-left: 42%;
     margin-top: 0.3%;
 }
+
 
 
 
@@ -153,3 +172,25 @@ img{
  .tg_logo{
     width: 15px;
  }
+
+
+
+ .neuroeducation{
+    padding-top: 50px;
+    padding-bottom: 50px;
+ }
+
+
+ 
+
+ .neuroeducation__blocks{
+    display: flex;
+    gap: 30px;
+    font-size: 20px;
+ }
+
+  .neuroeducation__block {
+      background-color: #ffffff;
+      padding: 10px 20px 10px 20px;
+      border-radius: 20px;
+  }
