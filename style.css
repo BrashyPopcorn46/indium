@@ -1,5 +1,11 @@
 /* номер стори 31 */
 
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 body{
     background-color: #ffffff;
     font-family: "Roboto", sans-serif;
@@ -11,14 +17,19 @@ background: linear-gradient(90deg, rgba(0, 94, 255, 1) 0%, rgba(253, 29, 29, 0.6
 }
 .wrapper__direction{
     text-align: center;
-    background-color: #fff;
     padding: 20px;
     border-radius: 50px;
-    
-    
-
 }
-
+.neiro__start{
+    text-align: left;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 50px;
+    margin-bottom: 5px;
+}
+.neiro-start__wrapper{
+    
+}
 .razvitie{
     margin-top: 52px;
     text-align: center;
@@ -34,8 +45,10 @@ background: linear-gradient(90deg, rgba(0, 94, 255, 1) 0%, rgba(253, 29, 29, 0.6
     border-radius: 50px;
 }
 .header{
-    margin-bottom: 50px;
+    position: fixed;
+    width: 100%;
 }
+
 .text1{
     text-align: center;
 }
@@ -103,6 +116,10 @@ img{
     
 .direction{
     text-align: center;
+    padding-top: 150px;
+
+    background: url("/bg.jpg") center center / cover no-repeat;
+    padding-bottom: 150px;
 }
     
 .direction__image{
