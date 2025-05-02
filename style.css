@@ -118,7 +118,7 @@ img{
     text-align: center;
     padding-top: 150px;
 
-    background: url("/bg.jpg") center center / cover no-repeat;
+    background: url("./bg.jpg") center center / cover no-repeat;
     padding-bottom: 150px;
 }
     
