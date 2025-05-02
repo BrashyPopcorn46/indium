@@ -205,8 +205,8 @@ img{
 
 
  .neuroeducation{
-    padding-top: 50px;
-    padding-bottom: 50px;
+   margin-bottom: 50px;
+
  }
 
 
@@ -216,6 +216,8 @@ img{
     display: flex;
     gap: 30px;
     font-size: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
  }
 
   .neuroeducation__block {
